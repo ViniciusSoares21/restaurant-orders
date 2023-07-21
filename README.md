@@ -1,13 +1,25 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Restaurant orders
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+## Descrição 
+Neste projeto, finalizarei uma ferramenta de construção de cardápios para o restaurante "Spaghetti Shrimp Chapa Quente Curry". Serão realizados testes para as classes existentes e desenvolvida uma nova classe para mapear pratos e suas receitas com ingredientes e quantidades. Também criarei classes para gerar os cardápios para os clientes e gerenciar o estoque de ingredientes. Praticarei o uso de Hashmaps com Dict e Set do Python, a ferramenta Pandas com DataFrame, conhecimentos de testes de software e orientação a objetos. O objetivo é obter um código limpo, de fácil manutenção e legibilidade, melhorando a gestão das receitas e estoque do restaurante.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Tecnologias e Ferramentas
+
+- python.
+- Pandas.
+- POO.
+<details>
+  <summary><strong>🔍 Testes</strong></summary>
+  
+- pytest
+</details>
+<details>
+  <summary><strong>🕵️ Alinhamento de código</strong></summary>
+  
+- black
+- flake8.
+</details>
+
+ 
+## Criado por [Vinicius Soares](https://www.linkedin.com/in/vinicius-soares21/)
+    
